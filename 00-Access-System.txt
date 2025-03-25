@@ -1,0 +1,33 @@
+Edit Text Files from the Shell Prompt
+=====================================
+
+Edit Files with Vim
+-------------------
+
+	Vim is an improved version of the vi editor, which is distributed with Linux and UNIX systems. Vim
+is a highly configurable and efficient editor that provides split-screen editing, color formatting, and
+highlighting for editing text.
+
+Benefits of the Vim Editor
+--------------------------
+	The key reason to learn Vim is that it is almost always installed by default on a server for editing
+text-based files.
+	When a system uses a text-only shell prompt, you should know how to use at least one text
+editor for editing files. You can then edit text-based configuration files from a terminal window
+or remote logins through the SSH command or the Web Console. 
+	You also do not need access to a graphical desktop to edit files on a server, and that server might not 
+need to run a graphical desktop environment.
+	Vim is also used often as the vi implementation on other standard operating systems or
+distributions. For example, macOS currently includes a lightweight installation of Vim by default.
+So, Vim skills that are learned for Linux might also prove useful elsewhere
+
+Get Started with Vim
+--------------------
+Packages Names based on command
+
+vim-minimal = vi
+vim-enhanced = vim
+
+Diagram for Vim Operating Modes:
+
+
