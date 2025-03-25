@@ -30,4 +30,5 @@ vim-enhanced = vim
 
 Diagram for Vim Operating Modes:
 
+https://github.com/LearnwithRM/RHCSA/blob/main/vim-operating-mode.png
 
